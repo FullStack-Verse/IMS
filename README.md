@@ -1,18 +1,17 @@
 # Inventory Management System
-Amzing Project on Management System
-Check Demo Here : https://www.youtube.com/watch?v=9UZM8MmY1T8
 
--Open source inventory management system with php and mysql
 
--Invoice generation and easy to download invoice in PDF format
+- Open source inventory management system with php and mysql
 
--Lightweight and easy to use
+- Invoice generation and easy to download invoice in PDF format
 
--Order management and product management can be done with ease
+- Lightweight and easy to use
 
--Report management
+- Order management and product management can be done with ease
 
--User wise sell report.
+- Report management
+
+- User wise sell report.
 
 # Requirement
 
